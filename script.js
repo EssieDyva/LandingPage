@@ -1,4 +1,6 @@
 // const app = document.getElementById('app');
+// if (app) {
+//   app.innerHTML = `<h1>Hello, World!</h1>`;
 
 function myFunction() {
   var x = document.getElementById("navLinks");
